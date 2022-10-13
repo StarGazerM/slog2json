@@ -1,0 +1,15 @@
+{
+  "name": "slog2json",
+  "version": "1.0.0",
+  "description": "turn slog program into json file",
+  "main": "slog.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antlr4": "^4.11.0"
+  }
+}
